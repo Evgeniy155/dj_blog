@@ -1,7 +1,7 @@
 # dj_blog
 It's some kind of blog, written with Python Django.
 
-To start it on localhost server, at first install Django and Pillow:
+To start it on localhost server, at first install Python libraries - Django and Pillow:
 
 ```
 pip install django
